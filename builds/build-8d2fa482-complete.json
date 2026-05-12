@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:02:01.107Z",
+  "job": {
+    "id": "b13d5f83-a460-4f30-ab60-6e4568e6542c",
+    "repo": "web-frontend",
+    "branch": "develop",
+    "commit": "8d2fa482",
+    "message": "Update readme",
+    "language": "javascript",
+    "priority": 40
+  },
+  "result": "success",
+  "duration_ms": 11064,
+  "duration_s": "11.1"
+}
