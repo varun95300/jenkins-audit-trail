@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:01:47.333Z",
+  "job": {
+    "id": "02ecb880-b6f9-4a2e-acdb-41aec7e9602e",
+    "repo": "web-frontend",
+    "branch": "develop",
+    "commit": "20cf3f41",
+    "message": "Fix login bug",
+    "language": "javascript",
+    "priority": 30
+  },
+  "result": "success",
+  "duration_ms": 11060,
+  "duration_s": "11.1"
+}
