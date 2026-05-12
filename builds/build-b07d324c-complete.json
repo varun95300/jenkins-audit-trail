@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:00:16.475Z",
+  "job": {
+    "id": "ad07708e-bde9-4b98-a761-fb0b351469e4",
+    "repo": "web-frontend",
+    "branch": "main",
+    "commit": "b07d324c",
+    "message": "[HOTFIX] SQL injection patch",
+    "language": "javascript",
+    "priority": 90
+  },
+  "result": "success",
+  "duration_ms": 10102,
+  "duration_s": "10.1"
+}
