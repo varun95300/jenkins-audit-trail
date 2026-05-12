@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:00:43.249Z",
+  "job": {
+    "id": "0882de5c-11aa-4d58-bbf0-6e7b515c87a3",
+    "repo": "api-service",
+    "branch": "feature/auth",
+    "commit": "0b2db908",
+    "message": "Add feature-2 to api-service",
+    "language": "python",
+    "priority": 20
+  },
+  "result": "success",
+  "duration_ms": 8553,
+  "duration_s": "8.6"
+}
