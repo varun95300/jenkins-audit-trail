@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:01:45.616Z",
+  "job": {
+    "id": "09e2a40c-6e5e-49bf-91dd-cda1167aba43",
+    "repo": "web-frontend",
+    "branch": "main",
+    "commit": "f72aea2c",
+    "message": "Refactor database layer",
+    "language": "javascript",
+    "priority": 50
+  },
+  "result": "success",
+  "duration_ms": 9143,
+  "duration_s": "9.1"
+}
