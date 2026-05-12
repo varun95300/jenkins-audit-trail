@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:00:30.034Z",
+  "job": {
+    "id": "b029c8de-c0cc-4023-bad9-933bdaf7f032",
+    "repo": "api-service",
+    "branch": "feature/auth",
+    "commit": "a9c45030",
+    "message": "Improve error handling",
+    "language": "python",
+    "priority": 20
+  },
+  "result": "success",
+  "duration_ms": 12061,
+  "duration_s": "12.1"
+}
