@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:00:38.317Z",
+  "job": {
+    "id": "69ec31b6-2a0e-4d6f-9a54-e0a12f6a7834",
+    "repo": "data-pipeline",
+    "branch": "master",
+    "commit": "da6a4918",
+    "message": "[URGENT] Pipeline data corruption",
+    "language": "java",
+    "priority": 95
+  },
+  "result": "success",
+  "duration_ms": 14419,
+  "duration_s": "14.4"
+}
