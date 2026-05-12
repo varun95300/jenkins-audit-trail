@@ -1,0 +1,15 @@
+{
+  "event": "JOB_STARTED",
+  "timestamp": "2026-05-12T14:00:06.495Z",
+  "job": {
+    "id": "c8777d39-747e-4574-beb9-dec6f378710e",
+    "repo": "data-pipeline",
+    "branch": "master",
+    "commit": "6e8d4eb9",
+    "message": "Fix unit tests",
+    "language": "java",
+    "priority": 55
+  },
+  "worker": "Java Worker",
+  "status": "running"
+}
