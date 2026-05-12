@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:00:47.946Z",
+  "job": {
+    "id": "25765e99-ee95-46a8-bc98-fd7d5d8b0318",
+    "repo": "data-pipeline",
+    "branch": "hotfix/crash",
+    "commit": "deb01901",
+    "message": "Add feature-3 to data-pipeline",
+    "language": "java",
+    "priority": 25
+  },
+  "result": "success",
+  "duration_ms": 5802,
+  "duration_s": "5.8"
+}
