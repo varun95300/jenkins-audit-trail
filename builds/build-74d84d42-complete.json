@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:00:37.748Z",
+  "job": {
+    "id": "2075f325-be06-4748-9adc-27ba838eeced",
+    "repo": "web-frontend",
+    "branch": "develop",
+    "commit": "74d84d42",
+    "message": "Add feature-4 to web-frontend",
+    "language": "javascript",
+    "priority": 40
+  },
+  "result": "success",
+  "duration_ms": 7800,
+  "duration_s": "7.8"
+}
