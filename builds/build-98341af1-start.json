@@ -1,0 +1,15 @@
+{
+  "event": "JOB_STARTED",
+  "timestamp": "2026-05-12T14:00:14.522Z",
+  "job": {
+    "id": "5582cac5-7a44-458b-8e8f-19f4b699f128",
+    "repo": "api-service",
+    "branch": "main",
+    "commit": "98341af1",
+    "message": "[HOTFIX] Critical security patch",
+    "language": "python",
+    "priority": 90
+  },
+  "worker": "General Worker",
+  "status": "running"
+}
