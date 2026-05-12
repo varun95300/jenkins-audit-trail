@@ -1,0 +1,16 @@
+{
+  "event": "JOB_COMPLETED",
+  "timestamp": "2026-05-12T14:01:58.920Z",
+  "job": {
+    "id": "3d0a4b6b-f770-4626-9c32-5019682ca4b2",
+    "repo": "web-frontend",
+    "branch": "develop",
+    "commit": "c84d6d03",
+    "message": "[LOW] Update comments",
+    "language": "javascript",
+    "priority": 20
+  },
+  "result": "success",
+  "duration_ms": 8683,
+  "duration_s": "8.7"
+}
