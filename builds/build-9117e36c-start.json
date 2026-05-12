@@ -1,0 +1,15 @@
+{
+  "event": "JOB_STARTED",
+  "timestamp": "2026-05-12T14:00:04.504Z",
+  "job": {
+    "id": "884c0fe4-77fe-4be2-9382-cf4b7d81c56f",
+    "repo": "web-frontend",
+    "branch": "develop",
+    "commit": "9117e36c",
+    "message": "Fix unit tests",
+    "language": "javascript",
+    "priority": 30
+  },
+  "worker": "General Worker",
+  "status": "running"
+}
